@@ -14,15 +14,15 @@ Je test deuxième modification en local
 
 -   Oui
 
--   NON
+-   Non
 
-    | taille | nb  | Col3 |
-    |--------|-----|------|
-    | 120    |     |      |
-    | 12     |     |      |
-    | 44     |     |      |
+    | Taille | Nombre | Col3 |
+    |--------|--------|------|
+    | 120    | 2      |      |
+    | 12     | 8      |      |
+    | 44     | 4      |      |
 
-Maintenant, j'édite en ligne
+*Maintenant* **j'édite** en ligne
 
 2+2 = 8 4 + 4 = 8
 
