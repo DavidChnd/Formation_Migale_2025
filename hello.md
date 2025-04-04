@@ -2,4 +2,4 @@
 
 *test sous Rstudio*
 
-**David**
+**David Chassagnaud**
