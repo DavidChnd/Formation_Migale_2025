@@ -1,7 +1,11 @@
 ---
-editor_options: 
-  markdown: 
+editor_options:
+  markdown:
     wrap: 72
+bibliography: references.bib
+output:
+  pdf_document: default
+  word_document: default
 ---
 
 # Formation_Migale_2025
@@ -11,6 +15,8 @@ Introduction aux bonnes pratiques pour des analyses reproductibles
 *Modification du read.me en local*
 
 Je test deuxième modification en local
+
+[@Bryant2020]
 
 -   Oui
 
