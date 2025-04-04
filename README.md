@@ -7,4 +7,4 @@ Je test deuxième modification en local
 
 Maintenant, j'édite en ligne
 
-2+2 =11
+2+2 = 4
